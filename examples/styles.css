@@ -1,3 +1,6 @@
+.imgRoundedCorner {
+	border-radius:25%;
+}
 body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 3em 5%;
